@@ -1,0 +1,20 @@
+Day 1 of 100 of AI Curriculum
+May 3rd 2025
+
+I did a bunch of Python hackerranks and watched ep1 of Ng's machine learning course.
+
+Supervised Learning: Regression, Classification
+Unsupervised: K-means clustering
+Deep Learning: Neural Networks
+
+Strengthened my list skills *list comprehenssssions* {[x,y] for x in range(a) for y in range(a) if x<10} and strengthened my dictionary/hashmap knowledge on those hackerranks.
+
+Tomorrow I'm busy, but I plan on improving my math skills since I feel like I struggle to describe operations that mix lists (Maybe that's a problem for NumPy). I also want to do some hackerranks that have some strange hashmap solutions. and I'd like to continue the Ng course (It's great to watch an expert for refreshing my skills).
+
+A good first day back I think. Not getting too lost in the libraries and still strengthening my langskills. Reminds me that I should brush up on my python class knowledge with a linked list, and also I shoulddd relearn quicksort.
+
+Todo:
+Math problems
+Linked List
+Quicksort
+Ng course
