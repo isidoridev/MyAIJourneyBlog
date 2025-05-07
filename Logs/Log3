@@ -1,0 +1,11 @@
+Boom! Linked Lists completed and my tea is still warm. It probably isn't perfect, classes can be interesting to optimize, but it works and I learned all I wanted to know. The Python docs for Classes is quite large, and I would like to read it, but I know that for my LLM journey it's not super important.
+
+Looked a bit at hugging face docs: pipelines and stuff. There is a lot and it feels very important and relevant.
+
+Transformers, Pretraining, Encoders/Decoders, ...
+
+I feel like I should look at neural networks before I go too deep into HF. Maybe there is HF docs on NNs, but I think I should look at some other sources for variety.
+
+TODO:
+Follow a tutorial and make a basic neural net.
+Finish reading https://huggingface.co/learn/llm-course/chapter1/4#the-original-architecture
